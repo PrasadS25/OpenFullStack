@@ -1,5 +1,5 @@
 ```mermaid
-graphTD
-  A->>B;
-  B->>C;
+graph TD;
+  A-->B;
+  B-->C;
 ```
